@@ -1,10 +1,10 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Hristiyan Dimitrov</h1>
-<h3 align="center">An 11th grader + Softuni student.</h3>
+<h3 align="center">An 11th grader and Softuni student.</h3>
 
 - 🔭 I’m currently working on [DocNote](https://github.com/dimitrovhris/DocNote)
 
-- 🌱 I’m currently learning **Java, Front-End Tecnologies, MySQL, Spring Framework and others.**
+- 🌱 I’m currently learning **Java, Front-End Tecnologies, MySQL, Spring Framework and more...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dimitrovhris?tab=repositories](https://github.com/dimitrovhris?tab=repositories)
 
