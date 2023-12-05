@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hris.plamenov.dimitrov@gamil.com**
 
-- ⚡ Fun fact **I hate smokers**
+- ⚡ Fun fact **100 tochki**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
