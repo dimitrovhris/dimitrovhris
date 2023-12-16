@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dimitrovhris?tab=repositories](https://github.com/dimitrovhris?tab=repositories)
 
-- 📫 How to reach me **hris.plamenov.dimitrov@gamil.com**
+- 📫 How to reach me **hris.plamenov.dimitrov@gmail.com**
 
 - ⚡ Fun fact **100 tochki**
 
