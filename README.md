@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hristiyan Dimitrov</h1>
 <h3 align="center">An 11th grader and Softuni student.</h3>
 
-- 🔭 I’m currently working on [DocNote](https://github.com/dimitrovhris/DocNote)
+- 🔭 I’m currently working on [Garden Paradise](https://github.com/dimitrovhris/garden-paradise)
 
 - 🌱 I’m currently learning **Java, Front-End Tecnologies, MySQL, Spring Framework and more...**
 
