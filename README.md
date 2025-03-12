@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Hristiyan Dimitrov</h1>
-<h3 align="center">An 11th grader and Softuni student.</h3>
+<h3 align="center">An 12th grader and Softuni student.</h3>
 
 - 🔭 I’m currently working on [Garden Paradise](https://github.com/dimitrovhris/garden-paradise)
 
